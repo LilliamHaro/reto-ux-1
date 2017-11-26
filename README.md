@@ -4,6 +4,8 @@
 
 ### YOUTUBE
 
+![youtube](assets/images/youtube.png)
+
 |  Experiencia de Usuario                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | - Tener diferentes opciones para el tamaño del video (vista normal, modo teatro, modo pantalla completa)                     |
@@ -34,22 +36,3 @@
 | - El tamaño de las miniaturas de los videos (zona de recomendaciones, resultados de busqueda o videos relacionados ) |
 | - El posicionamiento de los videos  |
 | - Los colores barra de avance de los videos |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--El color llamativo en la zona de acceder
-
-- el tamaño del icono principal pqueño pero que no se pierde con todo el contenido de la página
--la barra de busqueda fijada en lka parte superior
--
